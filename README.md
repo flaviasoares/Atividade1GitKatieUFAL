@@ -1,6 +1,6 @@
-## Atividade 1
+# Atividade 1
 
-# Workshop de Git e GitHub promovido pelo Grupo Katie
+## Workshop de Git e GitHub promovido pelo Grupo Katie
 
 <p>Aluna(o): Flavia da Silva Santos Soares</p>
 <p>Curso: Ciência da Computação</p>
